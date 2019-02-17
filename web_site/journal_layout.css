@@ -1,0 +1,40 @@
+#vjHeader1{
+
+    text-align: right;
+    background-color: #A8F0F0;
+}
+#vjHeader2{
+    font-size: 14pt;
+}
+
+.vjHeader3{
+    border: 4px  #C2E9E9  solid;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+    clear: right;
+    overflow: hidden;
+}
+
+#body{
+    border: 10px white solid;
+    background-color: white;
+    clear: left;
+}
+#back{
+    background-image: url("background.jpg");
+    padding: 5px;
+}
+.date{
+    border-bottom: 2px blue dashed;
+}
+
+.images{
+    float: right;
+}
+
+#addData{
+float: left;
+    border: 4px #C2E9E9 solid;
+    background-color: deepskyblue;
+}
